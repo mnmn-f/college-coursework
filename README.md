@@ -6,17 +6,17 @@
 
 ## 计算机核心课程
 
-- [数字电路](https://github.com/mmmn-f/college-digital-circuits)
-- [计算机组成原理](https://github.com/mmmn-f/college-computer-organization)
-- [数据结构](https://github.com/mmmn-f/college-data-structures)
-- [Qt 程序设计](https://github.com/mmmn-f/college-qt-gui-programming)
+- [数字电路](https://github.com/mnmn-f/college-digital-circuits)
+- [计算机组成原理](https://github.com/mnmn-f/college-computer-organization)
+- [数据结构](https://github.com/mnmn-f/college-data-structures)
+- [Qt 程序设计](https://github.com/mnmn-f/college-qt-gui-programming)
 
 ---
 
 ## 人文与通识课程
 
-- [文科课程整合](https://github.com/mmmn-f/course-ideological-and-history)
-- [大学英语](https://github.com/mmmn-f/college-english)
+- [文科课程整合](https://github.com/mnmn-f/course-ideological-and-history)
+- [大学英语](https://github.com/mnmn-f/college-english)
 
 ---
 
