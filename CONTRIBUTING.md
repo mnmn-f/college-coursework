@@ -40,7 +40,7 @@
 
 
 ---
-## 方式三：使用 Discussions
+## 使用 Discussions
 
 欢迎在 Discussions 板块发起话题，共同交流。
 
