@@ -15,7 +15,7 @@
 
 ## 人文与通识课程
 
-- [文科课程整合](https://github.com/mnmn-f/course-ideological-and-history)
+- [文科课程整合](https://github.com/mnmn-f/college-ideological-and-history)
 - [大学英语](https://github.com/mnmn-f/college-english)
 
 ---
