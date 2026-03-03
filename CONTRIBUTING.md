@@ -30,7 +30,7 @@
 
 ---
 
-## 提交 Pull Request（直接修改）
+## 提交 Pull Request
 
 如果你希望直接修正内容：
 
